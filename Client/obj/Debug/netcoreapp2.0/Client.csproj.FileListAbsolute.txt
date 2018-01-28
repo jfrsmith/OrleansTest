@@ -1,0 +1,12 @@
+/Users/jfrsmith/dev/OrleansTest/Client/obj/Debug/netcoreapp2.0/Client.csproj.CoreCompileInputs.cache
+/Users/jfrsmith/dev/OrleansTest/Client/obj/Debug/netcoreapp2.0/Client.AssemblyInfoInputs.cache
+/Users/jfrsmith/dev/OrleansTest/Client/obj/Debug/netcoreapp2.0/Client.AssemblyInfo.cs
+/Users/jfrsmith/dev/OrleansTest/Client/bin/Debug/netcoreapp2.0/Client.deps.json
+/Users/jfrsmith/dev/OrleansTest/Client/bin/Debug/netcoreapp2.0/Client.runtimeconfig.json
+/Users/jfrsmith/dev/OrleansTest/Client/bin/Debug/netcoreapp2.0/Client.runtimeconfig.dev.json
+/Users/jfrsmith/dev/OrleansTest/Client/bin/Debug/netcoreapp2.0/Client.dll
+/Users/jfrsmith/dev/OrleansTest/Client/bin/Debug/netcoreapp2.0/Client.pdb
+/Users/jfrsmith/dev/OrleansTest/Client/bin/Debug/netcoreapp2.0/GrainInterfaces.dll
+/Users/jfrsmith/dev/OrleansTest/Client/bin/Debug/netcoreapp2.0/GrainInterfaces.pdb
+/Users/jfrsmith/dev/OrleansTest/Client/obj/Debug/netcoreapp2.0/Client.dll
+/Users/jfrsmith/dev/OrleansTest/Client/obj/Debug/netcoreapp2.0/Client.pdb

@@ -1,0 +1,14 @@
+/Users/jfrsmith/dev/OrleansTest/Host/obj/Debug/netcoreapp2.0/Host.csproj.CoreCompileInputs.cache
+/Users/jfrsmith/dev/OrleansTest/Host/obj/Debug/netcoreapp2.0/Host.AssemblyInfoInputs.cache
+/Users/jfrsmith/dev/OrleansTest/Host/obj/Debug/netcoreapp2.0/Host.AssemblyInfo.cs
+/Users/jfrsmith/dev/OrleansTest/Host/bin/Debug/netcoreapp2.0/Host.deps.json
+/Users/jfrsmith/dev/OrleansTest/Host/bin/Debug/netcoreapp2.0/Host.runtimeconfig.json
+/Users/jfrsmith/dev/OrleansTest/Host/bin/Debug/netcoreapp2.0/Host.runtimeconfig.dev.json
+/Users/jfrsmith/dev/OrleansTest/Host/bin/Debug/netcoreapp2.0/Host.dll
+/Users/jfrsmith/dev/OrleansTest/Host/bin/Debug/netcoreapp2.0/Host.pdb
+/Users/jfrsmith/dev/OrleansTest/Host/bin/Debug/netcoreapp2.0/GrainCollection.dll
+/Users/jfrsmith/dev/OrleansTest/Host/bin/Debug/netcoreapp2.0/GrainInterfaces.dll
+/Users/jfrsmith/dev/OrleansTest/Host/bin/Debug/netcoreapp2.0/GrainInterfaces.pdb
+/Users/jfrsmith/dev/OrleansTest/Host/bin/Debug/netcoreapp2.0/GrainCollection.pdb
+/Users/jfrsmith/dev/OrleansTest/Host/obj/Debug/netcoreapp2.0/Host.dll
+/Users/jfrsmith/dev/OrleansTest/Host/obj/Debug/netcoreapp2.0/Host.pdb

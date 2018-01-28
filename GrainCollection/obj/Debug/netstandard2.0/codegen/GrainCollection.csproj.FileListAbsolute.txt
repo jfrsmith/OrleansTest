@@ -1,0 +1,7 @@
+/Users/jfrsmith/dev/OrleansTest/GrainCollection/obj/Debug/netstandard2.0/codegen/GrainCollection.csproj.CoreCompileInputs.cache
+/Users/jfrsmith/dev/OrleansTest/GrainCollection/obj/Debug/netstandard2.0/codegen/GrainCollection.AssemblyInfoInputs.cache
+/Users/jfrsmith/dev/OrleansTest/GrainCollection/bin/Debug/netstandard2.0/GrainCollection.deps.json
+/Users/jfrsmith/dev/OrleansTest/GrainCollection/bin/Debug/netstandard2.0/GrainCollection.dll
+/Users/jfrsmith/dev/OrleansTest/GrainCollection/bin/Debug/netstandard2.0/GrainCollection.pdb
+/Users/jfrsmith/dev/OrleansTest/GrainCollection/bin/Debug/netstandard2.0/GrainInterfaces.dll
+/Users/jfrsmith/dev/OrleansTest/GrainCollection/bin/Debug/netstandard2.0/GrainInterfaces.pdb
