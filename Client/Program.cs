@@ -104,6 +104,8 @@ namespace client
 
             m1.AddDirectReport(e4).Wait();
 
+            await e0.Promote(55);
+
             await Task.CompletedTask;
         }
     }
